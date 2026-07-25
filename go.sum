@@ -36,8 +36,8 @@ github.com/subosito/gotenv v1.6.0 h1:9NlTDc1FTs4qu0DDq7AEtTPNw6SVm7uBMsUCUjABIf8
 github.com/subosito/gotenv v1.6.0/go.mod h1:Dk4QP5c2W3ibzajGcXpNraDfq2IrhjMIvMSWPKKo0FU=
 go.yaml.in/yaml/v3 v3.0.4 h1:tfq32ie2Jv2UxXFdLJdh3jXuOzWiL1fo0bu/FbuKpbc=
 go.yaml.in/yaml/v3 v3.0.4/go.mod h1:DhzuOOF2ATzADvBadXxruRBLzYTpT36CKvDb3+aBEFg=
-goforge.dev/goplus v0.137.0 h1:X+R+QuRhQyxwMCeHdbEUqb/k9MdBPpt4HyrDV/m/ohI=
-goforge.dev/goplus v0.137.0/go.mod h1:CklVikk0gL9Pkk3A0h7f4gPTPfn0fOquW/beuOC8CCw=
+goforge.dev/goplus v0.139.0 h1:cr4dfajXOeIJnZdxfK75DN52M7pzX9D0xWXf9+8iL1c=
+goforge.dev/goplus v0.139.0/go.mod h1:CklVikk0gL9Pkk3A0h7f4gPTPfn0fOquW/beuOC8CCw=
 goforge.dev/goplus/std v0.201.0 h1:8rynl7f1iugx97Cp6SWH9r2ErBeYc3L4Fxhx/7ySo0k=
 goforge.dev/goplus/std v0.201.0/go.mod h1:kr7uOTXhg4p16dGLzGTBnVBsteQnUo3e/5XU055m1PM=
 golang.org/x/mod v0.38.0 h1:MECBjubtXD7yj4HrhIUcywNaGeNVUdfVnxmPajOk4yk=
