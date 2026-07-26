@@ -11,7 +11,7 @@ require (
 	github.com/spf13/pflag v1.0.10
 	github.com/spf13/viper v1.21.0
 	go.yaml.in/yaml/v3 v3.0.4
-	goforge.dev/goplus/std v0.204.0
+	goforge.dev/goplus/std v0.207.0
 )
 
 require (
